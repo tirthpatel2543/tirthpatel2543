@@ -5,7 +5,7 @@
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tirthpatel2543 &theme=radical)
 
 <!---
 tirthpatel2543/tirthpatel2543 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

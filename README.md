@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm TIRTH PATEL ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1 align="center">Hi , I'm TIRTH PATEL ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/10/Boy-Working-From-Home.gif">
 

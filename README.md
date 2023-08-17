@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tirthpatel2957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tirthpatel2957" height="30" width="40" /></a>
-<a href="https://instagram.com/tirth.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tirth.js" height="30" width="40" /></a>
+<a href="https://instagram.com/tirthh_295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tirth.js" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/tirth chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tirth chaudhary" height="30" width="40" /></a>
 <a href="https://discord.gg/Tirth Patel#9377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tirth Patel#9377" height="30" width="40" /></a>
 </p>

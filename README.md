@@ -5,9 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tirthpatel2543&label=Profile%20views&color=0e75b6&style=flat" alt="tirthpatel2543" /> </p>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++ , MYSQL**
 
 - 💬 Ask me about **Python , Java , HTML , CSS**
+
+- 🗺️ I am also interested in banner nd poster making. 
 
 - 📫 How to reach me **tirthpatel2957@gmail.com**
 

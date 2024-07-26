@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python , Java , HTML , CSS**
 
-- 🗺️ I am also interested in banner nd poster making. 
+- 🗺️ I am also interested in Graphic Design. 
 
 - 📫 How to reach me **tirthpatel2957@gmail.com**
 

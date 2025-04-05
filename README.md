@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++ , MYSQL**
 
-- 💬 Ask me about **Python , Java , HTML , CSS**
+- 💬 Ask me about **Python , Java , HTML , CSS, Bootstrap**
 
 - 🗺️ I am also interested in Graphic Design. 
 
